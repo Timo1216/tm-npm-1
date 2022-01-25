@@ -1,0 +1,26 @@
+{
+  "name": "tm-npm-1",
+  "version": "1.0.0",
+  "description": "tm 测试 npm",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/ --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timo1216/tm-npm-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timo1216/tm-npm-1/issues"
+  },
+  "homepage": "https://github.com/Timo1216/tm-npm-1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
