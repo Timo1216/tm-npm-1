@@ -1,6 +1,6 @@
 {
   "name": "tm-npm-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tm 测试 npm",
   "main": "index.js",
   "scripts": {
